@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:679/0*FGD6BUzzZs1VJLuY.gif)](https://rishavchanda.io)
+
 
 <h1 align="center">Hi 👋, I'm Chakrapani Chaturvedi</h1>
 <h3 align="center">"Passionate Frontend Developer from India | Skilled in Backend Basics Too | Seeking Frontend or Fullstack Opportunities"</h3>
